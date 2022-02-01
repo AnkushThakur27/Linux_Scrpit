@@ -1,6 +1,5 @@
 #!/bin/sh
 echo "Welcome to Linux Installation Guide" 
-echo "Sidero Limited"
 echo "Developed by Ankush Thakur"
 DIR="$HOME/Downloads"
 mkdir tool
